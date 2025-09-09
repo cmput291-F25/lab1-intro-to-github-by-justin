@@ -1,5 +1,6 @@
 # CMPUT 291 - Lab 1 Readme file
-Name: your-name
-CCID: your-ccid
-Lecture: your-lecture
-Lab: your-lab
+
+Name: Justin Zhang
+CCID: 1806953
+Lecture: CMPUT 291 LEC EA1
+Lab: CMPUT 291 Lab ED05
